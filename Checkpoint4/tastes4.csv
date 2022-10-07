@@ -1,0 +1,243 @@
+,Unnamed: 0,Index,company,company_location,review_date,Bean_Country,Bean_Province,cocoa_percent,rating,num_ingredients,cocoa_butter,vanilla,lecithin,salt,sugar,alternative_sweetener,first_taste,second_taste,third_taste,fourth_taste
+5,5,5,A. Morin,France,2013,Venezuela,Chuao,70.0,4.0,4,Yes,No,Yes,No,Yes,No,oily,nut,caramel,raspberry
+7,7,7,A. Morin,France,2013,Ecuador,Equateur,70.0,3.75,4,Yes,No,Yes,No,Yes,No,sandy,nutty,cocoa,fig
+26,26,26,A. Morin,France,2018,Peru,Absolu,63.0,3.75,4,Yes,No,Yes,No,Yes,No,sweet,dairy,spice,cocoa
+29,29,29,Acalli,U.S.A,2015,Peru,"Tumbes, Norandino",70.0,3.75,2,No,No,No,No,Yes,No,intense,nutty,cherry,cocoa
+36,36,36,Aelan,Vanuatu,2019,Vanuatu,"EPI Island, batch E 11/19",70.0,3.0,2,No,No,No,No,Yes,No,sandy,woody,spicy,sweet
+37,37,37,Aelan,Vanuatu,2019,Vanuatu,"Malo Island, batch Ma20/19",70.0,2.75,2,No,No,No,No,Yes,No,basic,sweet,cocoa,woody
+58,58,58,Altus aka Cao Artisan,U.S.A,2013,Dominican republic,"Conacado, batch 130",60.0,3.0,4,Yes,No,Yes,No,Yes,No,sandy,sweet,dairy,spice
+59,59,59,Altus aka Cao Artisan,U.S.A,2013,Bolivia,"Bolivia, batch 154",60.0,3.0,4,Yes,No,Yes,No,Yes,No,grit,sweet,caramel,fruit
+63,63,63,Altus aka Cao Artisan,U.S.A,2016,Ecuador,Gruppo Salinas,60.0,2.75,3,Yes,No,No,No,Yes,No,sandy,nutty,earthy,roasty
+65,65,65,Altus aka Cao Artisan,U.S.A,2016,Peru,Villa Andina,60.0,2.5,3,Yes,No,No,No,Yes,No,sandy,sweet,sour,off
+68,68,68,Amano,U.S.A,2007,Madagascar,Madagascar,70.0,3.5,4,Yes,Yes,No,No,Yes,No,spice,nut,cocoa,fruit
+80,80,80,Amazona,Peru,2013,Peru,"Bellavista Gran Pajeten, San Martin",73.0,3.5,3,Yes,No,No,No,Yes,No,oily,vegetal,nutty,cocoa
+81,81,81,Amazona,Peru,2013,Peru,"LamasdelChanka, San Martin, Oro Verde coop",72.0,3.25,3,Yes,No,No,No,Yes,No,oily,vanilla,melon,cocoa
+92,92,92,Amedei,Italy,2007,Blend,Toscano Black,63.0,3.5,4,Yes,Yes,No,No,Yes,No,fatty,dairy,caramel,cocoa
+100,100,100,Amedei,Italy,2019,Blend,Toscano Black,70.0,2.75,3,Yes,No,No,No,Yes,No,nut,fatty,rubbery,rich
+101,101,101,AMMA,Brazil,2010,Brazil,"Monte Alegre, 3 diff. plantations",60.0,4.0,4,Yes,No,Yes,No,Yes,No,creamy,sweet,cocoa,banana
+103,103,103,AMMA,Brazil,2010,Brazil,"Monte Alegre, 3 diff. plantations",75.0,3.75,4,Yes,No,Yes,No,Yes,No,roasty,fatty,nutty,coffee
+115,115,115,Arete,U.S.A,2015,Brazil,Fazenda Camboa,70.0,3.5,2,No,No,No,No,Yes,No,creamy,rich,rum,roasty
+153,153,153,Artisan du Chocolat,U.k.,2009,Venezuela,"Ocumare, Venezuela",75.0,2.5,3,Yes,No,No,No,Yes,No,oily,nutty,burnt,sour
+170,170,170,Atypic,Australia,2019,Solomon islands,Solomon Islands,70.0,3.0,4,Yes,No,Yes,No,Yes,No,off aroma,vegetal,honey,sandy
+171,171,171,Auro,Philippines,2018,Philippines,"Saloy E., 2016",70.0,3.5,3,Yes,No,No,No,Yes,No,long,bright fruit,sweet,sour
+185,185,185,Bankston,U.S.A,2019,Belize,Belize,72.0,2.5,3,Yes,No,No,No,Yes,No,gritty,fatty,sour,off
+262,262,262,Blanxart,Spain,2009,Blend,Organic Dark,72.0,2.75,4,Yes,Yes,No,No,Yes,No,oily,flat,woody,sour
+266,266,266,Blue Bandana,U.S.A,2016,Madagascar,"Akesson's E., Sambirano V.",82.0,3.5,2,No,No,No,No,Yes,No,sandy,tart,sour,sweet
+292,292,292,Bonnat,France,2011,Brazil,Juliana,75.0,3.5,3,Yes,No,No,No,Yes,No,oily,fatty,rich,nutty
+297,297,297,Bonnat,France,2014,Blend,"Surfin, Venez,Africa,Brasil,Peru,Mex",65.0,3.75,3,Yes,No,No,No,Yes,No,complex,brownie,mint,spice
+309,309,309,Brasstown aka It's Chocolate,U.S.A,2013,Dominican republic,Cooproagro,72.0,3.0,5,Yes,Yes,Yes,No,Yes,No,oily,vanilla,caramel,dairy
+312,312,312,Brasstown aka It's Chocolate,U.S.A,2015,Dominican republic,"Conacado, batch 001515",68.0,3.75,3,Yes,No,No,No,Yes,No,complex,brownie,lime,rich
+318,318,318,Brazen,U.S.A,2015,Guatemala,"Alta Verapaz, 2014, batch 69",70.0,3.5,2,No,No,No,No,Yes,No,tart,tea,leather,sour
+324,324,324,Breeze Mill,U.S.A,2013,Jamaica,Jamaica,70.0,3.0,4,Yes,Yes,No,No,Yes,No,chalky,sandy,tart,bland
+370,370,370,Cacao Hunters,Colombia,2014,Colombia,"Boyaca, Aprocampa Coop, Pauna",69.0,2.75,4,Yes,No,Yes,No,Yes,No,green,vegetal,soil,fuel
+376,376,376,Cacao Prieto,U.S.A,2011,Dominican republic,"Dominican Republic, rustic",65.0,3.25,2,No,No,No,No,Yes,No,rustic,gritty,sweet,fruit
+380,380,380,Cacao Sampaka,Spain,2009,Mexico,"Xoconusco, Chiapas, cacao Real",70.0,4.0,4,Yes,No,Yes,No,Yes,No,creamy,nutty,banana,rich
+429,429,429,Casa Lasevicius,Brazil,2019,Brazil,"Fazenda Camboa, Bahia, 2018",71.0,3.0,2,No,No,No,No,Yes,No,sandy,intense,sweet,rich
+436,436,436,Castronovo,U.S.A,2013,Peru,"San Martin, batch 155",70.0,2.5,3,Yes,No,No,No,Yes,No,sandy,fruity,acidic,metallic
+453,453,453,Chapon,France,2018,Venezuela,"San Esteban (Chloe, Maria, Patrice)",68.0,3.5,3,Yes,No,No,No,Yes,No,butter,roasty,cocoa,nutty
+473,473,473,Chocolate Alchemist-Philly,U.S.A,2016,Peru,"Tumbes, ""Zarumilla""",90.0,2.5,2,No,No,No,No,No,Yes,sticky,bitter,molasses,tart
+474,474,474,Chocolate Alchemist-Philly,U.S.A,2016,Blend,"Philly Blend, 5 plantations",80.0,2.5,2,No,No,No,No,No,Yes,sticky,coconut,sour,bitter
+477,477,477,Chocolate Con Amor,U.S.A,2016,Dominican republic,Dominican Republic,75.0,3.0,2,No,No,No,No,Yes,No,sandy,rich,roasty,earthy
+485,485,485,Chocolate Makers,Netherlands,2015,Dominican republic,Tres Hombres,75.0,3.25,3,Yes,No,No,No,Yes,No,earthy,coffee,mild,tang
+496,496,496,Chocolibrium,U.S.A,2018,India,"Anamalai, Tamil Nadu",63.0,2.5,3,Yes,No,No,No,Yes,No,sandy,tart,ham,sweet
+505,505,505,Chocovivo,U.S.A,2015,Mexico,Tabasco,65.0,2.5,2,No,No,No,No,Yes,No,coarse,sweet,sour,leathery
+509,509,509,Choklat,Canada,2009,Venezuela,Ocumare,70.0,3.0,4,Yes,Yes,No,No,Yes,No,slow,fatty,subdued,nutty
+523,523,523,Chuao Chocolatier (Pralus),U.S.A,2010,Venezuela,Chuao,77.0,2.75,3,Yes,No,No,No,Yes,No,red berry,bitter,roasty,sour
+524,524,524,Claudio Corallo,Sao tome,2008,Blend,"Terreiro Velho P., Sao Tome & Principe",75.0,3.75,3,Yes,No,No,No,Yes,No,dry,sandy,cocoa,coffee
+529,529,529,Cocoa Carib,St. lucia,2019,St. lucia,St. Lucia,70.0,2.25,4,Yes,Yes,No,No,Yes,No,raw,dirty,metallic,dry
+531,531,531,Condor,U.S.A,2015,Ecuador,Camino Verde,76.0,3.5,2,No,No,No,No,Yes,No,bold,roasty,sticky,brownie
+534,534,534,Coppeneur,Germany,2008,Mexico,"Porcelana, Tabasco, Mexico",72.0,3.0,3,Yes,No,No,No,Yes,No,intense,tangy,berry,sour
+555,555,555,Cravve,Australia,2012,Vanuatu,"Vanuatu, batch 2410",64.0,3.25,3,Yes,No,No,No,Yes,No,sandy,sweet,spicy,roasty
+559,559,559,Creo,U.S.A,2016,Ecuador,"""heirloom"", Arriba Nacional",85.0,3.25,3,Yes,No,No,No,Yes,No,oily,mild bitter,nutty,fruit
+567,567,567,Damson,U.k.,2015,Trinidad,Robson Estate,70.0,3.0,3,Yes,No,No,No,Yes,No,floral,sour,synthetic,off
+582,582,582,Dandelion,U.S.A,2015,Belize,"Maya Mtn., Break Bar- Snark",70.0,3.0,2,No,No,No,No,Yes,No,intense,roasty,coffee,raisin
+584,584,584,Dandelion,U.S.A,2017,Costa rica,"Hacienda Azul, 2016 Harvest",70.0,3.0,2,No,No,No,No,Yes,No,cocoa,sour,toffee,earthy
+603,603,603,DAR,U.S.A,2016,Venezuela,"Venezuela, batch 122",72.0,2.75,2,No,No,No,No,Yes,No,nut,tobacco,burnt,off notes
+605,605,605,Darcis,Belgium,2019,Peru,Piura,72.0,3.0,4,Yes,No,Yes,No,Yes,No,muted,creamy,grapes,fatty
+613,613,613,Davis,U.S.A,2013,Venezuela,Venezuela,70.0,2.75,4,Yes,No,Yes,No,Yes,No,fatty,powdery,nut,sl. Burnt
+626,626,626,Debauve & Gallais (Michel Cluizel),France,2009,Papua new guinea,Papua New Guinea,64.0,3.0,4,Yes,Yes,No,No,Yes,No,smokey,chalky,berry,caramel
+631,631,631,Desbarres,Canada,2019,Guatemala,"Monte Grande, batch 178",72.0,3.0,2,No,No,No,No,Yes,No,smokey,roasty,acidic,rich
+650,650,650,Dick Taylor,U.S.A,2019,Madagascar,"Akesson P., Sambirano",72.0,3.75,2,No,No,No,No,Yes,No,sticky,dried fruit,toast,cocoa
+652,652,652,Diogo Vaz,Sao tome & principe,2019,Sao tome,"Sao Tome, batch OST-18-01",65.0,3.0,4,Yes,No,Yes,No,Yes,No,complex,sweet,sour,grassy
+654,654,654,Diogo Vaz,Sao tome & principe,2019,Sao tome,"Sao Tome, unroasted, batch UNR-18-003",70.0,2.75,4,Yes,No,Yes,No,Yes,No,cocoa,raw,dirty,chemical
+666,666,666,Domori,Italy,2007,Ecuador,Ecuador,70.0,4.0,2,No,No,No,No,Yes,No,creamy,nuts,woody,cocoa
+667,667,667,Domori,Italy,2007,Venezuela,"Ocumare 67, Puertofino",70.0,4.0,2,No,No,No,No,Yes,No,creamy,mint,tobacco,olive
+671,671,671,Domori,Italy,2007,Venezuela,"Ocumare 61, Puertomar",75.0,3.25,2,No,No,No,No,Yes,No,sticky,smoke,ham,earthy
+678,678,678,Domori,Italy,2011,Venezuela,"Canoabo, Hacienda San Jose",70.0,3.5,2,No,No,No,No,Yes,No,smooth,intense,smoke,nut
+691,691,691,Double Spiral,U.S.A,2019,Dominican republic,Hispaniola,75.0,3.0,2,No,No,No,No,Yes,No,dry,cocoa,grassy,spicy
+692,692,692,Double Spiral,U.S.A,2019,Tanzania,Kokoa Kamili,70.0,2.75,2,No,No,No,No,Yes,No,dry,sour,sweet,mild fruit
+709,709,709,Duffy's,U.k.,2019,Philippines,South Cotabato,70.0,3.5,4,Yes,No,Yes,No,Yes,No,cocoa,honey,watery,sweet
+724,724,724,Edelmond,Germany,2016,Venezuela,Porcelana,68.0,3.0,2,No,No,No,No,Yes,No,dry,gritty,cardboard,nutty
+725,725,725,El Ceibo,Bolivia,2008,Bolivia,Alto Beni,71.0,2.75,4,Yes,No,Yes,No,Yes,No,lemon,tart,burnt,chemical
+727,727,727,El Rey,Venezuela,2006,Venezuela,"Carenero Superior, Gran Saman",70.0,2.75,5,Yes,Yes,Yes,No,Yes,No,gritty,chalky,earthy,sour
+730,730,730,El Rey,Venezuela,2008,Venezuela,"Carenero Superior, Bucare",58.0,2.5,5,Yes,Yes,Yes,No,Yes,No,gritty,sweet,banana,smoke
+731,731,731,El Rey,Venezuela,2009,Venezuela,"Rio Caribe, Macuro",70.0,3.0,5,Yes,Yes,Yes,No,Yes,No,sandy,bold,cherry,peanut butter
+744,744,744,ENNA,U.S.A,2018,Vietnam,"Ben Tre, batch 77",72.0,3.0,2,No,No,No,No,Yes,No,intens,brownie,spicy,metal
+745,745,745,ENNA,U.S.A,2019,Trinidad,"Maiden Voyage Estate, Herbert Pasqual",72.0,3.5,3,Yes,No,No,No,Yes,No,muddy,rainins,nut,rubbery
+747,747,747,ENNA,U.S.A,2019,Sierra leone,Gola Rainforest,70.0,2.5,3,Yes,No,No,No,Yes,No,dirty,earthy,burnt,honey
+748,748,748,Erithaj (A. Morin),France,2014,Vietnam,Ben Tre,70.0,3.25,3,Yes,No,No,No,Yes,No,spicy,green,long,intense
+749,749,749,Erithaj (A. Morin),France,2014,Vietnam,"Ba Lai, Mekong Delta",74.0,3.25,3,Yes,No,No,No,Yes,No,grit,smoke,wood,blackberry
+760,760,760,Ethel's Artisan (Mars),U.S.A,2011,Blend,"Venezuela, Trinidad",62.0,2.5,4,Yes,Yes,No,No,Yes,No,gritty,sweet,vanilla,woody
+769,769,769,Feitoria Cacao,Portugal,2016,Venezuela,Cuyagua,76.0,2.5,2,No,No,No,No,Yes,No,fatty,sandy,nutty,off notes
+771,771,771,Felchlin,Switzerland,2006,Ecuador,Arriba,72.0,3.5,5,Yes,Yes,Yes,No,Yes,No,fatty,rich,spice,nutty
+782,782,782,Finnia,Canada,2020,Mexico,Mexico,70.0,3.0,3,Yes,No,No,No,Yes,No,banana,bland,sour,off
+812,812,812,Foundry,New zealand,2019,Papua new guinea,"Kulkul P., Karkar Island, 2018 h., batch PK019",70.0,3.0,2,No,No,No,No,Yes,No,off,tropical,vegetal,rubbery
+823,823,823,Franceschi,Venezuela,2018,Venezuela,"Chuao, batch 4, Lot DH17",85.0,3.0,2,No,No,No,No,Yes,No,sl. dry,gritty,fruity,nuts
+850,850,850,Fresco,U.S.A,2011,Venezuela,"Chuao, #218, MR, MC, batch 11-020",76.0,3.25,3,Yes,No,No,No,Yes,No,bready,nutty,earthy,intense
+857,857,857,Fresco,U.S.A,2012,Papua new guinea,"Markham Valley, #221, DR, MC",69.0,3.5,2,No,No,No,No,Yes,No,smoke,fruit,sour,hammy
+870,870,870,Fresco,U.S.A,2018,Venezuela,Carupano Pintao,72.0,3.5,3,Yes,No,No,No,Yes,No,complex,nuts,spice,floral
+901,901,901,Friis Holm (Bonnat),Denmark,2015,Nicaragua,La Dalia,60.0,3.0,3,Yes,No,No,No,Yes,No,oily,sweet,dairy,bland
+906,906,906,Fruition,U.S.A,2013,Ecuador,Camino Verde,75.0,3.0,3,Yes,No,No,No,Yes,No,sandy,sweet,molasses,floral
+908,908,908,Fruition,U.S.A,2014,Peru,Maranon,76.0,3.0,3,Yes,No,No,No,Yes,No,acidic,undefined,brownie,off
+911,911,911,Fruition,U.S.A,2019,Madagascar,"Sambirano, Akessons, batch 1",74.0,3.75,2,No,No,No,No,Yes,No,balanced,fruit,nut,roasty
+919,919,919,Georgia Ramon,Germany,2015,Dominican republic,Conacado Coop,70.0,3.5,4,Yes,No,Yes,No,Yes,No,sticky,spice,roasty,earthy
+921,921,921,Georgia Ramon,Germany,2015,Madagascar,Akesson P.,75.0,3.5,4,Yes,No,Yes,No,Yes,No,red fruit,tart,fat,leathery
+925,925,925,Georgia Ramon,Germany,2018,Guatemala,Cahabon E.,72.0,2.75,3,Yes,No,No,No,Yes,No,dry,grainy,spicy,roasty
+953,953,953,Guittard,U.S.A,2006,Colombia,Chucuri,65.0,3.0,5,Yes,Yes,Yes,No,Yes,No,creamy,sweet,floral,vanilla
+956,956,956,Guittard,U.S.A,2007,Blend,Quetzalcoatl,72.0,3.5,5,Yes,Yes,Yes,No,Yes,No,creamy,sandy,nutmeg,moss
+960,960,960,Guittard,U.S.A,2009,Blend,Complexite,70.0,3.5,5,Yes,Yes,Yes,No,Yes,No,complex,fruit,nut,raisin
+964,964,964,Guittard,U.S.A,2011,Blend,Lever du Soleil,61.0,3.25,5,Yes,Yes,Yes,No,Yes,No,sweet,creamy,floral,orange
+979,979,979,Habitual,Canada,2014,Blend,Downtown London,65.0,2.75,3,Yes,No,No,No,Yes,No,molasses,sweet,long,cocoa
+981,981,981,Hacienda El Castillo,Ecuador,2014,Ecuador,Don Homero- Cerecita Valley,70.0,3.0,4,Yes,No,Yes,No,Yes,No,chewy,fatty,sweet,nutty
+986,986,986,Harper Macaw,U.S.A,2016,Brazil,"Vale do Juliana, w/ nibs",85.0,3.25,3,Yes,No,No,No,Yes,No,powdery,rich,coffee,roasty
+994,994,994,Heinde & Verre,Netherlands,2019,Venezuela,"Porcelana, Maracaibo",71.0,3.0,4,Yes,No,Yes,No,Yes,No,nutty,sweet,fatty,sandy
+995,995,995,Heinde & Verre,Netherlands,2019,Indonesia,"Pulau, Bali",71.0,2.5,4,Yes,No,Yes,No,Yes,No,rubber,fatty,sandy,grape
+1012,1012,1012,hexx,U.S.A,2015,Madagascar,Madagascar,74.0,3.0,2,No,No,No,No,No,Yes,sandy,tart,tangy,palm
+1025,1025,1025,Hogarth,New zealand,2019,Venezuela,"Porcelana, Lake Maracaibo",68.0,3.25,3,Yes,No,No,No,Yes,No,high acid,sweet,nut,strawberry
+1034,1034,1034,Holy Cacao,Israel,2009,Ivory coast,Ivory Coast,70.0,2.5,2,No,No,No,No,Yes,No,dry,sour,cheesey,off
+1037,1037,1037,Holy Cacao,Israel,2015,Trinidad,Gran Couva,70.0,3.5,4,Yes,No,Yes,No,Yes,No,creamy,nutty,tea,fatty
+1042,1042,1042,Hotel Chocolat,U.k.,2015,St. lucia,"Pepiniere, single Cote",70.0,2.75,2,No,No,No,No,Yes,No,smoke,cocoa,fruit,fuel
+1070,1070,1070,Idilio (Felchlin),Switzerland,2011,Venezuela,Coopertiva Amazona w/ nibs,72.0,4.0,3,Yes,No,No,No,Yes,No,peanut,coffee,cocoa,bread
+1081,1081,1081,Indi,U.S.A,2014,Honduras,Honduras,77.0,3.0,3,Yes,No,No,No,Yes,No,buttery,intense,spice,roasty
+1090,1090,1090,Izard,U.S.A,2015,Belize,"Maya Mountain, Toledo, Batch 29",70.0,3.5,2,No,No,No,No,Yes,No,intense,cherry,rich,metallic
+1102,1102,1102,Johnny Iuzzini,U.S.A,2018,Trinidad,"Tabaquite, batch 12",80.0,3.25,4,Yes,No,Yes,No,Yes,No,bold,spice,sour fruit,gritty
+1103,1103,1103,Johnny Iuzzini,U.S.A,2018,India,"Anamalai, batch 8",66.0,3.0,4,Yes,No,Yes,No,Yes,No,gritty,coffee,sweet,hammy
+1116,1116,1116,Kah Kow - USA,Dominican republic,2019,Dominican republic,Mata Larga,71.5,3.5,3,Yes,No,No,No,Yes,No,creamy,balanced,fig,cocoa
+1127,1127,1127,Kallari (Ecuatoriana),Ecuador,2008,Ecuador,Diego 48hr/ W.F. blend prototype,85.0,2.75,4,Yes,Yes,No,No,Yes,No,creamy,nutty,bitter,flat
+1161,1161,1161,L.A. Burdick (Felchlin),U.S.A,2010,Venezuela,Venzuela,71.0,3.0,5,Yes,Yes,Yes,No,Yes,No,cocoa,nutty,acidic,burning
+1178,1178,1178,La Maison du Chocolat (Valrhona),France,2009,Blend,Kuruba,60.0,3.0,4,Yes,No,Yes,No,Yes,No,rich,sweet,cocoa,intense
+1179,1179,1179,La Maison du Chocolat (Valrhona),France,2011,Grenada,Grenada,68.0,3.5,4,Yes,No,Yes,No,Yes,No,rich,vegetal,banana,spice
+1181,1181,1181,La Maison du Chocolat (Valrhona),France,2013,Tobago,Tobago,60.0,3.25,4,Yes,No,Yes,No,Yes,No,creamy,rich,dairy,nutty
+1183,1183,1183,La Maison du Chocolat (Valrhona),France,2013,Blend,"Cuana, 2013, Africa, Carribean, C. Am.",74.0,2.75,4,Yes,No,Yes,No,Yes,No,brownie,cocoa,sour,sweet
+1187,1187,1187,Laia aka Chat-Noir,France,2014,Cuba,Cuba,70.0,2.75,4,Yes,No,Yes,No,Yes,No,fatty,roasty,coffee,off note
+1190,1190,1190,Laia aka Chat-Noir,France,2015,Sao tome,"Sao Tome, Batch 151",75.0,3.5,4,Yes,No,Yes,No,Yes,No,rich,roasty,nutty,smoke
+1191,1191,1191,Laia aka Chat-Noir,France,2015,Peru,"Peru, Batch 51/100",75.0,3.25,4,Yes,No,Yes,No,Yes,No,sandy,fatty,roasty,fruit
+1196,1196,1196,Laia aka Chat-Noir,France,2015,Vietnam,"Vietnam, Batch 50/100",75.0,2.75,4,Yes,No,Yes,No,Yes,No,gritty,roasty,waxy,off
+1215,1215,1215,Letterpress,U.S.A,2017,Peru,Ucayali,70.0,4.0,3,Yes,No,No,No,Yes,No,mild,licorice,coffee,cocoa
+1231,1231,1231,Lonohana,U.S.A,2013,U.s.a.,"Hawai'i Island, Hawaiian Crown, Kona Vanilla",70.0,3.5,4,Yes,Yes,No,No,Yes,No,sandy,floral,vanilla,candy
+1282,1282,1282,Manoa,U.S.A,2012,Liberia,"Liberia, batch 174",72.0,3.25,3,Yes,No,No,No,Yes,No,molassses,intense,off,herb
+1285,1285,1285,Manoa,U.S.A,2012,U.s.a.,"Hawai'i Island, Hamakua, Hawaiian Crown, b. 176",72.0,2.75,3,Yes,No,No,No,Yes,No,oily,tangy,fruit,earthy
+1290,1290,1290,Manoa,U.S.A,2019,U.s.a.,"Hawai'i Island, Hilo and Kona regions",70.0,3.5,3,Yes,No,No,No,Yes,No,dried fruit,spicy,sticky,intense
+1320,1320,1320,Marou,Vietnam,2012,Vietnam,Ben Tre,78.0,3.5,3,Yes,No,No,No,Yes,No,sticky,pepper,cinamon,rich
+1325,1325,1325,Marou,Vietnam,2015,Vietnam,Ben Tre,68.0,3.5,2,No,No,No,No,Yes,No,roasty,rich,coffee,nut
+1334,1334,1334,Mast Brothers,U.S.A,2010,Venezuela,Ocumare de la Costa,75.0,3.0,2,No,No,No,No,Yes,No,dry,sticky,nutty,earthy
+1339,1339,1339,Mast Brothers,U.S.A,2011,Dominican republic,Conacado,73.0,3.25,2,No,No,No,No,Yes,No,dry,gritty,red berry,coffee
+1341,1341,1341,Mast Brothers,U.S.A,2011,Venezuela,"Chuao, Dark Roast",70.0,3.0,2,No,No,No,No,Yes,No,dry,sandy,intense,berry
+1344,1344,1344,Mast Brothers,U.S.A,2011,Papua new guinea,Papua New Guinea,71.0,2.75,2,No,No,No,No,Yes,No,gritty,sticky,smoke,hammy
+1345,1345,1345,Mast Brothers,U.S.A,2012,Blend,"Shake Shack, Peru, Mad., Dom. Rep.",73.0,3.5,2,No,No,No,No,Yes,No,gritty,fruit,tart,rich
+1352,1352,1352,Matale,Australia,2013,Papua new guinea,"Kulili P., 2013",74.0,4.0,3,Yes,No,No,No,Yes,No,creamy,grassy,smoke,nut
+1355,1355,1355,Maverick,U.S.A,2014,Peru,"Morropon, Norandiono Coop, Piura",63.0,3.5,3,Yes,No,No,No,Yes,No,sweet,cherry,cream,raisin
+1358,1358,1358,Maverick,U.S.A,2014,Peru,Tumbes,82.0,3.25,2,No,No,No,No,Yes,No,intense,burnt,bitter,spice
+1364,1364,1364,McGuire,Canada,2020,Guatemala,"Cahabon E., ""Adioesmac""",70.0,2.5,3,Yes,No,No,No,Yes,No,musty,woody,rubbery,roasty
+1372,1372,1372,Mellow,Denmark,2019,Dominican republic,"Oko Caribe, El Cibao, 2018 Harvest",70.0,2.75,2,No,No,No,No,No,Yes,dry,floral,dirty,coconut
+1376,1376,1376,Mesocacao,Honduras,2014,Honduras,Honduras,70.0,3.5,3,Yes,No,No,No,Yes,No,intense,grassy,spicy,rich
+1381,1381,1381,Mesocacao,Honduras,2015,El salvador,El Salvador,80.0,2.75,3,Yes,No,No,No,Yes,No,fatty,bitter,woody,roasty
+1400,1400,1400,Michel Cluizel,France,2019,Guatemala,La Laguna Plantation,70.0,3.5,4,Yes,Yes,No,No,Yes,No,dairy,cocoa,fatty,apple
+1401,1401,1401,Michel Cluizel,France,2019,Brazil,Riachuelo Plantation,70.0,3.0,4,Yes,Yes,No,No,Yes,No,sandy,grits,nutty,vanilla
+1420,1420,1420,Millesime,Belgium,2019,India,"Kaithapara Village, Idukki, Kerala, 2017 H.",74.0,3.0,3,Yes,No,No,No,Yes,No,dry,sandy,empty,sweet
+1421,1421,1421,Millesime,Belgium,2019,Brazil,"Fazenda Leolinad, Bahia, 2017 H.",76.0,3.0,3,Yes,No,No,No,Yes,No,dry,sandy,dirt,empty
+1432,1432,1432,Mirzam,U.a.e.,2019,Tanzania,Kokoa Kamili,72.0,3.75,3,Yes,No,No,No,Yes,No,complex,fruit,nut,rich
+1433,1433,1433,Misina,Czech republic,2020,Vietnam,Vietnam,70.0,3.5,3,Yes,No,No,No,Yes,No,sour fig,cocoa,creamy,fatty
+1437,1437,1437,Moho,U.S.A,2010,Belize,"Umoho R., Toledo District, San Felipe",67.0,2.75,3,Yes,No,No,No,Yes,No,rough,sweet,dairy,vanilla
+1453,1453,1453,MUCHO,Mexico,2020,Mexico,"Finca La Rioja E., Cacahoatan, Chiapas",70.0,3.0,3,Yes,No,No,No,Yes,No,light color,spicy,sweet,sour
+1464,1464,1464,Naive,Lithuania,2013,Blend,Trinidad & Tobago,70.0,3.75,4,Yes,No,Yes,No,Yes,No,sandy,floral,spice,roasty
+1470,1470,1470,Naive,Lithuania,2019,Nicaragua,"Rugoso, nanolot for Cacao Review",67.0,2.75,3,Yes,No,No,No,Yes,No,strong,rubbery,woody,sweet
+1475,1475,1475,Nearynogs,Ireland,2018,Dominican republic,"Hispaniola, batch 170308",70.0,3.25,2,No,No,No,No,Yes,No,dry,sandy,sweet,acidic
+1476,1476,1476,Neuhaus (Callebaut),Belgium,2006,Venezuela,Ocumare,71.0,3.0,5,Yes,Yes,Yes,No,Yes,No,pastey,complex,coffee,vanilla
+1485,1485,1485,Nibble,U.S.A,2015,Venezuela,Patanemo,72.0,2.25,2,No,No,No,No,Yes,No,molasses,nut,roasty,bitter
+1502,1502,1502,Nuance,U.S.A,2015,Ghana,"Ghana, 2013, batch 3581",70.0,3.75,2,No,No,No,No,Yes,No,rich,cherry,smoke,cocoa
+1508,1508,1508,Nuance,U.S.A,2020,Nigeria,"Akwa Ibom, 2017 h., batch 19762",70.0,3.0,3,Yes,No,No,No,Yes,No,cocoa,nut,dried fruit,rubbery
+1516,1516,1516,Ocho,New zealand,2014,Papua new guinea,"PNG, Voodoo, batch 95",88.0,3.25,2,No,No,No,No,Yes,No,intense,bitter,sour,smokey
+1521,1521,1521,Ohiyo,U.S.A,2015,Tanzania,Tanzania,70.0,3.0,3,Yes,No,No,No,Yes,No,sweet,sandy,fruit,pungent
+1531,1531,1531,Olivia,Canada,2011,Blend,Carribean,85.0,2.75,5,Yes,Yes,Yes,No,Yes,No,creamy,medicinal,mint,bitter
+1550,1550,1550,Original Hawaiin Chocolate Factory,U.S.A,2006,U.s.a.,"Hawai'i Island, Kona Estate, Hualalai Mtn",60.0,3.0,5,Yes,Yes,Yes,No,Yes,No,muddy,pastey,sweet,vanilla
+1554,1554,1554,Pacari,Ecuador,2008,Ecuador,Raw,70.0,3.5,4,Yes,No,Yes,No,Yes,No,sandy,green,spice,nuts
+1555,1555,1555,Pacari,Ecuador,2008,Ecuador,Los Rios,72.0,3.0,4,Yes,No,Yes,No,Yes,No,sandy,rubber,spice,floral
+1557,1557,1557,Pacari,Ecuador,2008,Ecuador,Esmeraldas,60.0,2.75,4,Yes,No,Yes,No,Yes,No,floral,rubber,vanilla,metallic
+1580,1580,1580,Palette de Bine,Canada,2017,Haiti,Pisa,70.0,3.5,2,No,No,No,No,Yes,No,sticky,bold,nutty,fig
+1585,1585,1585,Pangea,Spain,2019,Peru,Chilique,71.0,3.5,2,No,No,No,No,Yes,No,sandy,fruit,cocoa,sour
+1601,1601,1601,Patric,U.S.A,2007,Madagascar,Madagascar,70.0,4.0,3,Yes,No,No,No,Yes,No,mild tart,wine,red fruit,long
+1607,1607,1607,Paul Young,U.k.,2014,Madagascar,"Madagascar, w/ shell",64.0,2.75,2,No,No,No,No,No,Yes,coarse,sweet,tart,earthy
+1616,1616,1616,Pierre Marcolini,Belgium,2007,Madagascar,"Sambirano, Ambanja, Madagascar",72.0,4.0,5,Yes,Yes,Yes,No,Yes,No,tangy,floral,spicy,cocoa
+1628,1628,1628,Piety and Desire,U.S.A,2020,Tanzania,"Kokoa Kamili, Kilombero Valley, batch 304",70.0,3.5,3,Yes,No,No,No,Yes,No,sweet,cream,cherry,rich
+1636,1636,1636,Pitch Dark,U.S.A,2015,Nicaragua,Rugoso,80.0,3.25,2,No,No,No,No,Yes,No,chunky,dairy,nutty,rich
+1637,1637,1637,Pitch Dark,U.S.A,2015,Nicaragua,Johe,80.0,2.75,2,No,No,No,No,Yes,No,dry,sandy,earthy,leathery
+1640,1640,1640,Pitch Dark,U.S.A,2015,Nicaragua,Tenor,62.0,2.5,3,Yes,No,No,No,Yes,No,coarse,earthy,metal,sweet
+1660,1660,1660,Pralus,France,2008,Madagascar,"Sambirano Valley, Le 100%",100.0,3.0,2,Yes,No,No,No,No,No,fatty,mild fruit,bitter,smoke
+1662,1662,1662,Pralus,France,2009,Venezuela,Cuyagua,75.0,2.0,4,Yes,No,Yes,No,Yes,No,creamy,burnt,ashey,lemon
+1665,1665,1665,Pralus,France,2015,Peru,Peru,75.0,3.25,3,Yes,No,No,No,Yes,No,subdued,floral,nutty,fatty
+1673,1673,1673,Pralus,France,2019,Indonesia,Java,75.0,3.0,4,Yes,No,Yes,No,Yes,No,fruit,woody,ashey,fatty
+1675,1675,1675,Pralus,France,2019,Madagascar,Nosy Be Isle.,75.0,3.0,4,Yes,No,Yes,No,Yes,No,high acidity,roasty,sour,chalky
+1676,1676,1676,Pralus,France,2019,Colombia,Colombie,75.0,3.0,4,Yes,No,Yes,No,Yes,No,sandy,coffee,sweet,roasty
+1688,1688,1688,Pump Street Bakery,U.k.,2017,Jamaica,"Bachelor's Hall, batch 6911",75.0,3.75,2,No,No,No,No,Yes,No,sticky,mild,hay,honey
+1692,1692,1692,Pura Delizia,Italy,2017,Vietnam,Vietnam,75.0,3.5,4,Yes,No,Yes,No,Yes,No,intense,fig,roasty,citrus
+1699,1699,1699,Q Chocolate,Brazil,2013,Brazil,Brazil,75.0,3.25,3,Yes,No,No,No,Yes,No,sticky,intense,roasty,fruit
+1703,1703,1703,Qantu,Canada,2019,Peru,"Chunchu, Ayacucho, lot 208",70.0,3.75,3,Yes,No,No,No,Yes,No,bold,nutty,floral,wine
+1705,1705,1705,Quetzalli (Wolter),Mexico,2016,Mexico,"Uranga, Lot 22032016",74.0,3.0,3,Yes,No,No,No,Yes,No,waxy,gritty,spicy,hammy
+1707,1707,1707,Raaka,U.S.A,2011,Dominican republic,La Red,85.0,3.5,3,Yes,No,No,No,Yes,No,creamy,pasty,bitter,cocoa
+1722,1722,1722,Raphio,U.S.A,2019,Nicaragua,Matagalpa,72.0,3.5,3,Yes,No,No,No,Yes,No,grassy,earthy,roasty,dirty
+1731,1731,1731,Ritual,U.S.A,2012,Ecuador,"Camino Verde P., 2012, Balao, Guayas, batch 1",75.0,3.25,2,No,No,No,No,Yes,No,dried fruit,nut,bitter,roasty
+1738,1738,1738,Ritual,U.S.A,2019,Nicaragua,"La Colonia, Enliven Cacao",70.0,3.5,2,No,No,No,No,Yes,No,complex,honey,fruit,nut
+1753,1753,1753,Rogue,U.S.A,2010,Peru,Piura,75.0,3.75,2,No,No,No,No,Yes,No,smooth,intense,fruit,complex
+1756,1756,1756,Rogue,U.S.A,2013,Bolivia,"Silvestre, Batch 7, 2013",75.0,4.0,2,No,No,No,No,Yes,No,smooth,banana,tart,roasty
+1761,1761,1761,Rogue,U.S.A,2015,Venezuela,"Caranero, Choc. Garage Exclusive",70.0,3.75,2,No,No,No,No,Yes,No,deep,rich,nutty,roasty
+1770,1770,1770,Rozsavolgyi,Hungary,2012,Venezuela,"Rio Caribe Superior, Paria Penninsula, b. R380",76.0,2.25,3,Yes,No,No,No,Yes,No,fatty,burnt,nut,vegetal
+1800,1800,1800,Scharffen Berger,U.S.A,2009,Vietnam,Ben Tre,72.0,3.75,5,Yes,Yes,Yes,No,Yes,No,creamy,grassy,banana,tart
+1801,1801,1801,Scharffen Berger,U.S.A,2010,Madagascar,Amina,65.0,3.75,5,Yes,Yes,Yes,No,Yes,No,clingy,subtle,tangy,citrus
+1803,1803,1803,Scharffen Berger,U.S.A,2011,Papua new guinea,Markham Valley,68.0,3.75,5,Yes,Yes,Yes,No,Yes,No,cherry,wine,rich,smoke
+1804,1804,1804,Scharffen Berger,U.S.A,2012,Peru,San Juan de Cheni,78.0,4.0,4,Yes,No,Yes,No,Yes,No,banana,pear,spice,cheese
+1806,1806,1806,Seaforth,U.k.,2015,Grenada,Grenada,70.0,2.75,2,No,No,No,No,Yes,No,off,sweet,orange,rubber
+1817,1817,1817,Shark Mountain,U.S.A,2015,Papua new guinea,Papua New Guinea,73.0,3.5,2,No,No,No,No,Yes,No,chewy,smoke,fruit,cocoa
+1833,1833,1833,Sirene,Canada,2014,Ecuador,"Camino Verde P., Balao, Guayas",73.0,3.75,3,Yes,No,No,No,Yes,No,intense,rich,burnt,licorice
+1838,1838,1838,Sirene,Canada,2015,Guatemala,Lachua w/ cane sugar,73.0,3.0,2,No,No,No,No,Yes,No,waxy,earthy,cocoa,roasty
+1843,1843,1843,Sjolinds,U.S.A,2015,Nicaragua,"Nicaragua, lot N510",72.0,3.0,3,Yes,No,No,No,Yes,No,mild,nutty,vanilla,cocoa
+1844,1844,1844,Sjolinds,U.S.A,2015,Ghana,Ghana,70.0,2.75,4,Yes,Yes,No,No,Yes,No,sweet,vanilla,cocoa,mold
+1847,1847,1847,"Smooth Chocolator, The",Australia,2015,Trinidad,San Juan Estate,70.0,3.75,3,Yes,No,No,No,Yes,No,cigar,tobacco,grass,spice
+1868,1868,1868,Sol Cacao,U.S.A,2016,Ecuador,"Ecuador, Batch 1",70.0,3.5,2,No,No,No,No,Yes,No,intense,simple,floral,earthy
+1871,1871,1871,Solkiki,U.k.,2019,Philippines,"Kablon Farms, Red Pod, 2018 harvest",70.0,2.5,3,Yes,No,No,No,Yes,No,intense,dirty,floral,medicinal
+1886,1886,1886,Soma,Canada,2009,Dominican republic,Hispaniola,70.0,3.0,3,Yes,No,No,No,Yes,No,sticky,few grits,mild fruit,sour
+1888,1888,1888,Soma,Canada,2010,Blend,"Black Science Blend 1, DR, Ecuador, Peru",70.0,3.75,3,Yes,No,No,No,Yes,No,complex,nut,dried fruit,earth
+1889,1889,1889,Soma,Canada,2011,Peru,Peruvian,64.0,4.0,3,Yes,No,No,No,Yes,No,complex,spice,caramel,cocoa
+1904,1904,1904,Soma,Canada,2013,Venezuela,"Maracaibo, El Vigia",70.0,4.0,3,Yes,No,No,No,Yes,No,delicate,nutty,cocoa,dairy
+1934,1934,1934,Somerville,U.S.A,2014,U.s.a.,"Hawai'i Island, Big Island",70.0,3.5,2,No,No,No,No,Yes,No,intense,tannic,choco,earthy
+1941,1941,1941,Soul,Canada,2017,Papua new guinea,Papua New Guinea,77.0,3.25,2,No,No,No,No,Yes,No,sandy,smokey,fruit,sour
+1949,1949,1949,Spencer,U.S.A,2017,Dominican republic,Dominican Republic,70.0,3.75,3,Yes,No,No,No,Yes,No,sandy,robust,grapes,malt
+1972,1972,1972,Suruca Chocolate,Venezuela,2016,Venezuela,Venezuela,60.0,3.0,3,Yes,No,No,No,Yes,No,sticky,sweet,nutty,roasty
+1973,1973,1973,Suruca Chocolate,Venezuela,2016,Venezuela,Venezuela,70.0,2.75,3,Yes,No,No,No,Yes,No,sticy,nutty,roasty,off notes
+1992,1992,1992,Szanto Tibor,Hungary,2014,Venezuela,Porcelana,70.0,3.5,3,Yes,No,No,No,Yes,No,sandy,earthy,spice,nutty
+1999,1999,1999,Tabal,U.S.A,2013,Peru,"Peru, batch 96",70.0,3.0,4,Yes,Yes,No,No,Yes,No,vanilla,fatty,vegetal,mint
+2008,2008,2008,Tala,Vietnam,2019,Vietnam,Vietnam,70.0,2.75,3,Yes,No,No,No,Yes,No,cocoa,sweet,fatty,cardboard
+2013,2013,2013,Taucherli,Switzerland,2019,Mexico,Mexico,70.0,3.25,3,Yes,No,No,No,Yes,No,nutty,fruit,sour,floral
+2014,2014,2014,Taucherli,Switzerland,2019,Nicaragua,Nicaragua,72.0,3.0,3,Yes,No,No,No,Yes,No,nutty,off,roasty,fatty
+2020,2020,2020,TCHO,U.S.A,2008,Ghana,Chocolatey-beta,70.0,2.5,5,Yes,Yes,Yes,No,Yes,No,gritty,sweet,swiss miss,vanilla
+2021,2021,2021,TCHO,U.S.A,2008,Peru,Fruity-beta,70.0,2.5,5,Yes,Yes,Yes,No,Yes,No,tangy,off,musty,sour
+2040,2040,2040,Terroir,U.S.A,2014,Madagascar,"Madagascar, batch 6-5-15",67.0,3.75,2,No,No,No,No,Yes,No,sweet,rich,tannic,fruity
+2050,2050,2050,Terroir,U.S.A,2019,Belize,Maya Mountain,77.0,3.0,3,Yes,No,No,No,Yes,No,berries,licorice,cocoa,bitter
+2056,2056,2056,Theo,U.S.A,2007,Ivory coast,Ivory Coast,75.0,2.5,4,Yes,Yes,No,No,Yes,No,dry,gritty,hint of fruit,sour
+2078,2078,2078,Tribe,Canada,2020,Vietnam,"Dak Lak, batch 0A08",70.0,2.75,2,No,No,No,No,Yes,No,tart,sweet,sour,savory
+2082,2082,2082,twenty-four blackbirds,U.S.A,2013,Bolivia,"Palos Blancos, batch 97",75.0,2.5,2,No,No,No,No,Yes,No,roasty,bitter,caramel,dairy
+2089,2089,2089,Uncouth,Canada,2017,Tanzania,Tanzania,75.0,3.0,2,No,No,No,No,Yes,No,dry,coarse,sweet,earthy
+2090,2090,2090,Uncouth,Canada,2017,Dominican republic,Dominican Republic,75.0,2.75,2,No,No,No,No,Yes,No,dry,coarse,hay,off
+2092,2092,2092,Undone,U.S.A,2014,Nicaragua,Matagalpa,74.0,2.75,2,No,No,No,No,Yes,No,creamy,woody,green,rubber
+2099,2099,2099,Valrhona,France,2006,Blend,"Guanaja, South America",70.0,3.75,5,Yes,Yes,Yes,No,Yes,No,subtle,smooth,earthy,long
+2118,2118,2118,Valrhona,France,2013,Dominican republic,"Loma Sotavento, 2013",64.0,3.5,5,Yes,Yes,Yes,No,Yes,No,complex,herbs,fruit,dairy
+2131,2131,2131,Videri,U.S.A,2014,Trinidad,Trinidad,75.0,3.5,3,Yes,No,No,No,Yes,No,spicy,roasty,acidic,dairy
+2133,2133,2133,Videri,U.S.A,2014,Dominican republic,Dominican Republic,90.0,3.25,3,Yes,No,No,No,Yes,No,intense,cocoa,spicy,fruit
+2140,2140,2140,Violet Sky,U.S.A,2015,Madagascar,Sambirano Valley,77.0,2.75,2,No,No,No,No,Yes,No,intense,tart,sour,raisin
+2178,2178,2178,Xocolatisimo,El salvador,2019,El salvador,Hacienda San Jose,75.0,3.0,4,Yes,No,Yes,No,Yes,No,coarse,sweet,candy,licorice
+2191,2191,2191,Zart Pralinen,Austria,2016,Tanzania,"Kakao Kamili, Kilombero Valley",85.0,3.0,3,Yes,No,No,No,Yes,No,melon,mild tart,bitter,fatty
+2198,2198,2198,Zokoko,Australia,2016,Blend,Goddess Blend,65.0,3.25,5,Yes,Yes,Yes,No,Yes,No,oily,sweet,choco,nutty
+2206,2206,2206,Zotter,Austria,2011,India,Kerala State,62.0,3.25,4,Yes,No,No,Yes,No,Yes,oily,subdued,caramel,salt
+2208,2208,2208,Zotter,Austria,2012,Dominican republic,"Loma Los Pinos, Yacao region, D.R.",62.0,3.75,4,Yes,No,No,Yes,No,Yes,spice,caramel,toffee,salty
+2210,2210,2210,Zotter,Austria,2012,Panama,"Bocas del Toro, Cocabo Co-op",72.0,3.5,4,Yes,No,No,Yes,No,Yes,oily,earthy,caramel,salty
+2215,2215,2215,Zotter,Austria,2012,Congo,"Kongo, Highlands",68.0,3.25,4,Yes,No,No,Yes,No,Yes,creamy,caramel,salt,sweet
